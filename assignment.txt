@@ -1,0 +1,20 @@
+IF funds deposited has amount over 10K or age over 55, Bonus will be calculated.
+
+RFC Customer Care:
+
+
+
+Sequence
+
+1) Associate logs into application
+2) Applicatoin performs authentication at its ends adn grants accesss to associate
+3) Associate selects category of problem
+submits problm with IEF filter.
+
+whenever a client server registration system that will replace a legacy system which was based on main frame technology, the new system will allow students to register for courses view report cards from personal computers attached to the computer lan.
+Professors will be able to access the system to sign up and teach courses as well as record grades.  The system must be able to use the existing course catalog database available on the college machine.
+
+Describe what is cohesion.
+Describe what is coupler and object oriented software development
+Describe why we strive to reduce coupling.
+Identify three software metrics which try to measure code couplings
